@@ -6,7 +6,8 @@
 
 
 
-// console.log("CLASE 23/03/2023")
+// console.log("CLASE 23/03/2023\n-----------------------------------------------------------------------------------------------------------");
+
 const productos = ["Manteca","Cafe","Carne"];
 
 const productos2 = [...productos];
